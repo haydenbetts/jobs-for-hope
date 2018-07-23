@@ -1,3 +1,5 @@
+### Example Job Responsibilities ###
+
 Receives, screens and triages referrals from in-bound calls, walk-ins and other collaborative partners.
 
 Conducts standardized screening and triages adult/singles experiencing homelessness.
@@ -19,7 +21,7 @@ Complete data entry into HMIS database.
 Coordinate transportation assistance for the purposes of stabilizing the current housing crisis.
 Other duties as assigned
 
-Top 5 keywords w/ Rake on default settings:
+### Top 5 keywords w/ Rake on default settings: ###
 
 **triages adult/singles experiencing homelessness**
 
