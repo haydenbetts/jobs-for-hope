@@ -21,7 +21,7 @@ Complete data entry into HMIS database.
 Coordinate transportation assistance for the purposes of stabilizing the current housing crisis.
 Other duties as assigned
 
-### Top 5 keywords w/ Rake on default settings: ###
+### Top 5 keywords found by [Rake](https://github.com/fabianvf/python-rake) on default settings: ###
 
 **triages adult/singles experiencing homelessness**
 
