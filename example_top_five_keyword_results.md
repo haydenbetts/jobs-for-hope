@@ -1,4 +1,4 @@
-Receives, screens and triages referrals from in-bound calls, walk-ins and other collaborative partners. 
+Receives, screens and triages referrals from in-bound calls, walk-ins and other collaborative partners. \n
 Conducts standardized screening and **triages adult/singles experiencing homelessness**.
 **Accepts warm transfer calls** of adult/singles prescreened by 211 LA County.
 Works in coordination with the Housing Navigation team; crisis and bridge housing providers, and **rapid re-housing providers** to ensure seamless and integrated care for homeless adult/singles in SPA 1. 
