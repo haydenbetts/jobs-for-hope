@@ -1,4 +1,4 @@
-### Example Job Responsibilities ###
+### Example Job Responsibilities Entry ###
 
 Receives, screens and triages referrals from in-bound calls, walk-ins and other collaborative partners.
 
