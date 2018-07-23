@@ -18,3 +18,15 @@ Complete data entry into HMIS database.
 
 Coordinate transportation assistance for the purposes of stabilizing the current housing crisis.
 Other duties as assigned
+
+Top 5 keywords w/ Rake on default settings:
+
+**triages adult/singles experiencing homelessness**
+
+**accepts warm transfer calls**
+
+**rapid re-housing providers**
+
+**applicable program housing navigator**
+
+**immediately addresses safety concerns**
